@@ -128,27 +128,6 @@ Users simply enter or upload an insect image through the web interface, and the 
          Predicted Insect Species
 ```
 
----
-
-# 📂 Project Structure
-
-```
-Insect-classification-project
-│
-├── assets/
-│   └── home.png
-│
-├── dataset/
-├── model/
-├── app.py
-├── requirements.txt
-├── train_model.py
-├── README.md
-└── ...
-```
-
----
-
 # 🚀 Installation
 
 ## Clone Repository
