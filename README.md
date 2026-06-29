@@ -59,17 +59,9 @@ Users simply enter or upload an insect image through the web interface, and the 
 
 # 🖼️ Screenshot
 
-Save your application screenshot inside:
+## Application Interface
 
-```
-assets/home.png
-```
-
-Then add this to the README:
-
-```markdown
 ![Application Screenshot](assets/home1.jpg)
-```
 
 ---
 
