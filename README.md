@@ -68,7 +68,7 @@ assets/home.png
 Then add this to the README:
 
 ```markdown
-![Application Screenshot](assets/home.png)
+![Application Screenshot](assets/home1.jpg)
 ```
 
 ---
