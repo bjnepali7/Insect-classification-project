@@ -127,7 +127,6 @@ Users simply enter or upload an insect image through the web interface, and the 
                      ▼
          Predicted Insect Species
 ```
-
 # 🚀 Installation
 
 ## Clone Repository
